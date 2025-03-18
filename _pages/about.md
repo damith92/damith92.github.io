@@ -15,7 +15,7 @@ I am particularly interested in modeling Vioelnce Detection in Surveillance Vide
 
 ## Previous Experience 
 
-* I have diverse experience in artificial intelligence, deep learning, and data science across academia and industry. As a **Research Assistant at Queen Mary University of London**, I worked on developping deep leanring techniques for deepfake audio detection. At **Royal Holloway University of London**, I researched AI path planning algorithms to be deployed in an underwater vehicle, I worked as an **AI REsearch Engineer at Cognius.ai** in Singapore, where I led deep leanring based NLP development for a conversational AI platform and as a **Data Scientist at PrimusSoft in Singapore**, I developed predictive analytics for smart buildings.
+I have diverse experience in artificial intelligence, deep learning, and data science across academia and industry. As a **Research Assistant at Queen Mary University of London**, I worked on developping deep leanring techniques for deepfake audio detection. At **Royal Holloway University of London**, I researched AI path planning algorithms to be deployed in an underwater vehicle, I worked as an **AI REsearch Engineer at Cognius.ai** in Singapore, where I led deep leanring based NLP development for a conversational AI platform and as a **Data Scientist at PrimusSoft in Singapore**, I developed predictive analytics for smart buildings.
 
 
 ## Education  
@@ -32,4 +32,4 @@ I am particularly interested in modeling Vioelnce Detection in Surveillance Vide
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
-<a href="https://info.flagcounter.com/djR8"><img src="https://s01.flagcounter.com/map/djR8/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/rmZj"><img src="https://s01.flagcounter.com/map/rmZj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
