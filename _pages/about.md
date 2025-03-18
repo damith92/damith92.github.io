@@ -25,8 +25,8 @@ I have diverse experience in artificial intelligence, deep learning, and data sc
 
 ## Updates
 
-- We presented our work on Violence Detection at the Security and Policing event organized by Home Office.
-- Our paper CUE-Net was accepted for an oral presentation at the Workshop on Affective Behavior Analysis in-the-wild at CVPR 2024!
+- We presented our work on Violence Detection at [Security & Policing 2025](https://www.linkedin.com/posts/activity-7305395983650021377-3Yi1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaR2MEB04hmqVKncGCT6lRMw9wX9LDROXw) - The Official UK Government Global Security Event organized by the UK Home Office.
+- Our paper [CUE-Net](https://openaccess.thecvf.com/content/CVPR2024W/ABAW/papers/Senadeera_CUE-Net_Violence_Detection_Video_Analytics_with_Spatial_Cropping_Enhanced_UniformerV2_CVPRW_2024_paper.pdf) was published and accepted for an oral presentation at the Workshop on Affective Behavior Analysis in-the-wild at CVPR 2024!
 
   
 ### Site Credits
