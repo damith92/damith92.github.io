@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Damith Senadeera and I am a PhD student in **Computer Science and AI** at [Queen Mary University of London](https://www.qmul.ac.uk/), affiliated with the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). My research focuses on **Deep Learning for Violence Detection**, specifically in **Action Recognition** and video-based **Violence Detection**. My primary PhD supervisor from QMUL is **[Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html)** and **[Dr. Dimitrios Kollias](https://sites.google.com/view/dimitrioskollias/)** from QMUL serves as my secondary supervisor. I'm also being mentored by my industry supversor **[Dr. Robert Yang](https://sites.google.com/view/dimitrioskollias/)** from Remark AI which sponsors my PhD partly as well..
+My name is Damith Senadeera and I am a PhD student in **Computer Science and AI** at [Queen Mary University of London](https://www.qmul.ac.uk/), affiliated with the [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). My research focuses on **Deep Learning for Violence Detection**, specifically in **Action Recognition** and video-based **Violence Detection**. My primary PhD supervisor from QMUL is **[Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html)** and **[Dr. Dimitrios Kollias](https://sites.google.com/view/dimitrioskollias/)** from QMUL serves as my secondary supervisor. I'm also being mentored by my industry supversor **[Dr. Robert Yang](https://www.linkedin.com/in/robert-x-yang-a979751b/)** from Remark AI which sponsors my PhD partly as well..
 
 I am particularly interested in modeling Vioelnce Detection in Surveillance Videos as an Action Recognition problem using Deep Learning (DL). My work aims to introduce novel techniques that effectively combine differnet extracted features to produce efficient and accurate models to be deployed in real-world systems to detect violent activities which can also be interpretable.
 
 
 ## Previous Experience 
 
-I have diverse experience in artificial intelligence, deep learning, and data science across academia and industry. As a **Research Assistant at Queen Mary University of London**, I worked on developping deep leanring techniques for deepfake audio detection. At **Royal Holloway University of London**, I researched AI path planning algorithms to be deployed in an underwater vehicle, I worked as an **AI REsearch Engineer at Cognius.ai** in Singapore, where I led deep leanring based NLP development for a conversational AI platform and as a **Data Scientist at PrimusSoft in Singapore**, I developed predictive analytics for smart buildings.
+I have diverse experience in artificial intelligence, deep learning, and data science across academia and industry. As a Research Assistant at Queen Mary University of London, I worked on developping deep leanring techniques for deepfake audio detection. At Royal Holloway University of London, I researched AI path planning algorithms to be deployed in an underwater vehicle, I worked as an AI REsearch Engineer at Cognius.ai in Singapore, where I led deep leanring based NLP development for a conversational AI platform and as a Data Scientist at PrimusSoft in Singapore, I developed predictive analytics for smart buildings.
 
 
 ## Education  
