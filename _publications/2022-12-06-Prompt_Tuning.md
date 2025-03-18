@@ -6,7 +6,9 @@ permalink: /publication/2022-12-06-Prompt_Tuning
 excerpt: "nvestigated and developed a deep learning system to generate synthetic text data using controllable text generation models with the help of prompt tuning given a particular sentiment and analyzed the utility of produced artificial data in AI tasks such as model training."
 journal: arXiv preprint arXiv:2212.02924
 award: 
-imageurl: "/images/publications/prompt_tuning_diagram.png"
+imageurl: '/images/publications/prompt_tuning_diagram.png'
+paperurl: 'https://arxiv.org/pdf/2212.02924'
+github: https://github.com/damith92/T5_encoder_decoder_prompt_tuning_for_text_generation
 ---
 <center><img src="/images/publications/prompt_tuning_diagram.png" alt="Prompt Tuning Pipeline" style="width:80%;"></center>
 
