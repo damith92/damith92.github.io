@@ -30,6 +30,6 @@ I have diverse experience in artificial intelligence, deep learning, and data sc
 
   
 ### Site Credits
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
+This is the front page of a website that is powered by the [GitHub academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
 <a href="https://info.flagcounter.com/rmZj"><img src="https://s01.flagcounter.com/map/rmZj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>

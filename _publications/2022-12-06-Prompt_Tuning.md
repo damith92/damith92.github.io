@@ -3,7 +3,7 @@ title: "Controlled Text Generation using T5 based Encoder-Decoder Soft Prompt Tu
 date: 2022-12-06
 collection: publications
 permalink: /publication/2022-12-06-Prompt_Tuning
-excerpt: "Deep Learning; NLP; T5; Soft Prompt-Tuning; Self-Attention"
+excerpt: "nvestigated and developed a deep learning system to generate synthetic text data using controllable text generation models with the help of prompt tuning given a particular sentiment and analyzed the utility of produced artificial data in AI tasks such as model training."
 journal: arXiv preprint arXiv:2212.02924
 award: 
 imageurl: "/images/publications/prompt_tuning_diagram.png"
